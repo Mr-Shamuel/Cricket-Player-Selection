@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "first_name": " Mustafizur Rahman  ",
+    "age": "25y 349d",
+    "role": "Bowler",
+    "salary": 80,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319700/319734.png"
+  },
+  {
+    "id": 2,
+    "first_name": " Shakib Al Hasan ",
+    "age": "34y 150d",
+    "role": "Allrounder",
+    "salary": 100,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316500/316581.png"
+  },
+  {
+    "id": 3,
+    "first_name": "Abu Jayed ",
+    "age": "28y 19d",
+    "role": "Bowler",
+    "salary": 60,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/323100/323157.png"
+  },
+  {
+    "id": 4,
+    "first_name": "Afif Hossain ",
+    "age": "21y 333d",
+    "role": "Allrounder",
+    "salary": 70,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/323100/323159.png"
+  },
+  {
+    "id": 5,
+    "first_name": "Ebadot Hossain ",
+    "age": "27y 226d",
+    "role": "Bowler",
+    "salary": 78,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/323100/323168.png"
+  },
+  {
+    "id": 6,
+    "first_name": "Liton Das ",
+    "age": "24y 49d",
+    "role": "Wicketkeeper",
+    "salary": 83,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319700/319727.png"
+  },
+  {
+    "id": 7,
+    "first_name": "Mohammad Mahmudullah ",
+    "age": "26y 252d",
+    "role": "Allrounder",
+    "salary": 100,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316500/316571.png"
+  },
+  {
+    "id": 8,
+    "first_name": "Mohammad Mithun ",
+    "age": "30y 172d",
+    "role": "Wicketkeeper",
+    "salary": 65,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319700/319730.png"
+  },
+  {
+    "id": 9,
+    "first_name": "Mehidy Hasan ",
+    "age": "23y 300d",
+    "role": "Allrounder",
+    "salary": 84,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319700/319728.png"
+  },
+  {
+    "id": 10,
+    "first_name": "Tamim Iqbal ",
+    "age": "32y 154d",
+    "role": "Opening batter",
+    "salary": 90,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316500/316583.png"
+  },
+  {
+    "id": 11,
+    "first_name": "Taskin Ahmed ",
+    "age": "26y 140d",
+    "role": "Bowler",
+    "salary": 84,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316700/316703.png"
+  },
+  {
+    "id": 12,
+    "first_name": "Soumya Sarkar ",
+    "age": "28y 177d",
+    "role": "Middle order batter",
+    "salary": 87,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316600/316685.png"
+  },
+  {
+    "id": 13,
+    "first_name": "MRubel Hossain ",
+    "age": "31y 232d",
+    "role": "Bowler",
+    "salary": 86,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316600/316634.png"
+  }
+]

@@ -1,0 +1,17 @@
+.roots {
+  background-color: #2870a0;
+}
+.roots h1 {
+  font-weight: bolder;
+}
+.main {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  /* position: relative; */
+  position: sticky;
+  top: 0;
+}
+
+/* .cart {
+  position: sticky;
+} */

@@ -1,0 +1,15 @@
+.con {
+  background-color: tomato;
+  color: white;
+  margin: 20px;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  margin: 0px auto;
+}

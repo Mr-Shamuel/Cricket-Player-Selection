@@ -1,0 +1,9 @@
+.card_container {
+  position: relative;
+}
+.addPlayer {
+  margin-top: 20px;
+  position: absolute;
+  bottom: 0;
+  left: 33%;
+}
